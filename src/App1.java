@@ -5,7 +5,7 @@ public class App1 {
 		// TODO Auto-generated method stub
 		try {
 		System.out.println("----Test Application");
-		System.out.println("==========success===========");
+		System.out.println("==========success=========++++==");
 
 	}
 		catch(Exception e)

@@ -12,6 +12,7 @@ public class App1 {
 		{
 			System.out.println("Error message");
 		}
+		System.out.println("last line");
 
 }
 }
